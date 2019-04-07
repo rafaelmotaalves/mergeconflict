@@ -1,4 +1,8 @@
 class Test {
+	public void twoConflictsInOneFile1() {
+		int x = 0;
+	}
+
 	public void mergeConflictOne() {
 		int x = 2;
 	}
@@ -15,5 +19,9 @@ class Test {
 
 	public void multipleConflicts () {
 		int x = 2;
+	}
+
+	public void twoConflictsInOneFile2() {
+		int x = 0;
 	}
 }
