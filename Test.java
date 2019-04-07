@@ -1,6 +1,6 @@
 class Test {
 	public void twoConflictsInOneFile1() {
-		int x = 0;
+		int x = 1;
 	}
 
 	public void mergeConflictOne() {
@@ -22,6 +22,6 @@ class Test {
 	}
 
 	public void twoConflictsInOneFile2() {
-		int x = 0;
+		int x = 1;
 	}
 }
