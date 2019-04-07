@@ -1,6 +1,6 @@
 class TestTwo {
 	public void multipleConflicts() {
-		int x = 0;
+		int x = 1;
 	}
 
 }

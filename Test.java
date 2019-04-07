@@ -14,6 +14,6 @@ class Test {
 	}
 
 	public void multipleConflicts () {
-		int x = 0;
+		int x = 1;
 	}
 }
