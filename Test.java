@@ -12,4 +12,8 @@ class Test {
 		int x = 0;
 		int y = 0;
 	}
+
+	public void multipleConflicts () {
+		int x = 0;
+	}
 }
